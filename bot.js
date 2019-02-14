@@ -6,7 +6,16 @@ console.log("Scrpit By Dream");
 client.on("ready", () => {
 let channel =     client.channels.get("545738929702436864")
 setInterval(function() {
-channel.send(`$give all 1 $give all 2 $give all 3 $give all 4 $give all 5 $give all 6 $give all 7 $give all 8 $give all 9 $give all 10`);
+channel.send(`$give all 1`);
+channel.send(`$give all 2`);
+channel.send(`$give all 3`);
+channel.send(`$give all 4`);
+channel.send(`$give all 5`);
+channel.send(`$give all 6`);
+channel.send(`$give all 7`);
+channel.send(`$give all 8`);
+channel.send(`$give all 9`);
+channel.send(`$give all 10`);
 }, 1)
 })
 
