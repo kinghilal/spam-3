@@ -8,7 +8,8 @@ let channel =     client.channels.get("545738929702436864")
 setInterval(function() {
 channel.send(``);
 channel.send(`احب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢تاحب͡͠͝ك̨̛͝ ͨ͐̂موت͉ͅت̢ت`);
-channel.send(`شطه مقليه في بيض`);
+channel.send(`test test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test testtest test test test test test test test
+`);
 }, 1)
 })
 
